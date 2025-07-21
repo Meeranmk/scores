@@ -1,7 +1,7 @@
 {
   "namespace": "default",
   "kind": "Component",
-  "name": "example-component",
+  "name": "sample",
   "scores": {
     "code": { "score": 85, "description": "Good coding standards", "todo": "Add tests" },
     "quality": { "score": 90, "description": "High test coverage", "todo": "Add performance tests" },
