@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: sample-component
   annotations:
-    scorecard/jsonDataUrl: https://raw.githubusercontent.com/Oriflame/backstage-plugins/main/plugins/score-card/sample-data
-    github.com/project-slug: Oriflame/backstage-plugins
+    scorecard/jsonDataUrl: https://raw.githubusercontent.com/Meeranmk/scores/main/Component/example-component.json
+    github.com/project-slug: Meeranmk/portfolio
 spec:
   type: service
   owner: team-a
