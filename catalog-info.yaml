@@ -4,6 +4,7 @@ metadata:
   name: sample-component
   annotations:
     github.com/project-slug: Meeranmk/portfolio
+    scorecard/jsonDataUrl:  https://raw.githubusercontent.com/Meeranmk/scores/main/Component/results.json
 spec:
   type: service
   owner: team-a
