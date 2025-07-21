@@ -1,0 +1,13 @@
+{
+  "namespace": "default",
+  "kind": "Component",
+  "name": "example-component",
+  "scores": {
+    "code": { "score": 85, "description": "Good coding standards", "todo": "Add tests" },
+    "quality": { "score": 90, "description": "High test coverage", "todo": "Add performance tests" },
+    "operations": { "score": 75, "description": "CI/CD in place", "todo": "Add DRP" },
+    "documentation": { "score": 80, "description": "README present", "todo": "Update wiki" },
+    "reviewer": "John Doe",
+    "reviewDate": "2025-07-01"
+  }
+}
