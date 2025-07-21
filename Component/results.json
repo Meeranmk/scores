@@ -1,13 +1,14 @@
 {
-  "namespace": "default",
-  "kind": "Component",
-  "name": "sample",
-  "scores": {
-    "code": { "score": 85, "description": "Good coding standards", "todo": "Add tests" },
-    "quality": { "score": 90, "description": "High test coverage", "todo": "Add performance tests" },
-    "operations": { "score": 75, "description": "CI/CD in place", "todo": "Add DRP" },
-    "documentation": { "score": 80, "description": "README present", "todo": "Update wiki" },
-    "reviewer": "John Doe",
-    "reviewDate": "2025-07-01"
-  }
+  "scores": [
+    {
+      "entity": "component:default/sample",
+      "score": 0.825,
+      "categoryScores": {
+        "code": 0.85,
+        "quality": 0.9,
+        "operations": 0.75,
+        "documentation": 0.8
+      }
+    }
+  ]
 }
