@@ -3,7 +3,6 @@ kind: Component
 metadata:
   name: sample-component
   annotations:
-    scorecard/jsonDataUrl: https://raw.githubusercontent.com/Meeranmk/scores/main/Component/example-component.json
     github.com/project-slug: Meeranmk/portfolio
 spec:
   type: service
