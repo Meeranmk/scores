@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: Meeranmk/portfolio
     scorecard/jsonDataUrl:  https://raw.githubusercontent.com/Meeranmk/scores/main/Component/results.json
+    snyk.io/org-id: a1d16401-496b-4613-acc4-6fbe0e76ed8c
 spec:
   type: service
   owner: team-a
